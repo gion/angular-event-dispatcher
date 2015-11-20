@@ -5,7 +5,7 @@
     "Ilson Roberto Balliego Junior <ilson.balliego@prontmed.com>"
   ],
   "description": "An event dispatcher for angularJs",
-  "main": "src/eventDispatcher.js",
+  "main": "build/eventDispatcher.js",
   "keywords": [
     "angularjs",
     "eventdispatcher"
